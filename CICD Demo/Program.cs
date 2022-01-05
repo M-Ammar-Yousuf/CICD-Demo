@@ -12,6 +12,7 @@ namespace CICD_Demo
         {
             Console.WriteLine("Displaying Message from CI/CD Demo Project");
             Console.WriteLine("Display text changes");
+            Console.WriteLine("Test trigger");
             Console.ReadLine();
         }
     }
