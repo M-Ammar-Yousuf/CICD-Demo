@@ -1,0 +1,6 @@
+F:\Ammar\Workspace\CICD Demo\CICD Demo\bin\Debug\CICD Demo.exe.config
+F:\Ammar\Workspace\CICD Demo\CICD Demo\bin\Debug\CICD Demo.exe
+F:\Ammar\Workspace\CICD Demo\CICD Demo\bin\Debug\CICD Demo.pdb
+F:\Ammar\Workspace\CICD Demo\CICD Demo\obj\Debug\CICD Demo.csprojResolveAssemblyReference.cache
+F:\Ammar\Workspace\CICD Demo\CICD Demo\obj\Debug\CICD Demo.exe
+F:\Ammar\Workspace\CICD Demo\CICD Demo\obj\Debug\CICD Demo.pdb
